@@ -24,6 +24,15 @@ Sentiment analysis plays a pivotal role across various domains:
 - **Healthcare:** Evaluate patient satisfaction, study drug reviews, and enhance healthcare services.
 - **Political Analysis:** Monitor election sentiment, assess public opinions, and refine campaign strategies.
 
+## Project Overview:
+This project delves into sentiment analysis using Twitter data from the dataset available at [Kaggle](https://www.kaggle.com/datasets/kazanova/sentiment140). The raw dataset undergoes meticulous text preprocessing to prepare it for the model. We meticulously crafted embedding vectors, leading to an impressive accuracy rate of approximately 79%.
+
+## Key Achievements:
+- **Data Source:** Utilized a Twitter dataset from Kaggle, a reliable source for real-world textual data.
+- **Preprocessing Excellence:** Implemented robust text preprocessing techniques to enhance data quality and relevance.
+- **Embedding Vectors:** Constructed efficient embedding vectors, a crucial step in text sentiment analysis.
+- **Impressive Accuracy:** Attained a commendable accuracy rate of around 79%, showcasing the effectiveness of the implemented techniques.
+
 ## How to Run the Project
 To run the application, follow these steps:
 
